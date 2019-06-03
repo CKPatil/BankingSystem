@@ -1,0 +1,6 @@
+C:\Users\ChetanKPatil\Desktop\Banking-System-master\Banking System\bin\Debug\Banking System.exe.config
+C:\Users\ChetanKPatil\Desktop\Banking-System-master\Banking System\bin\Debug\Banking System.exe
+C:\Users\ChetanKPatil\Desktop\Banking-System-master\Banking System\bin\Debug\Banking System.pdb
+C:\Users\ChetanKPatil\Desktop\Banking-System-master\Banking System\obj\Debug\Banking System.csproj.CoreCompileInputs.cache
+C:\Users\ChetanKPatil\Desktop\Banking-System-master\Banking System\obj\Debug\Banking System.exe
+C:\Users\ChetanKPatil\Desktop\Banking-System-master\Banking System\obj\Debug\Banking System.pdb
